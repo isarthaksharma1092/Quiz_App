@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quizz Bee</string>
+    <string name="bee">Bee</string>
+    <string name="quizzzz">Quizzzz</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="welcome">Welcome</string>
+    <string name="sumbit">Sumbit</string>
+    <string name="eg_sarthak">eg: Sarthak</string>
+</resources>
